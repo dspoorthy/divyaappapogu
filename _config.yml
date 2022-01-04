@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Divya Spoorthy"
 title_separator          : "-"
 name                     : &name "Divya Spoorthy"
-description              : &description "Bachelors Student, Engineering Science Department, IIT Hyderabad"
-url                      : https://divyaspoorthy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Master's Student, Computer Science Department, Boston University"
+url                      : https://dspoorthy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "divyaspoorthy.github.io"
+repository               : "dspoorthy.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -79,11 +79,11 @@ analytics:
 author:
   name             : "Divya Spoorthy"
   avatar           : "me.jpeg"
-  bio              : "Bachelors student, Engineering Science Department, IIT Hyderabad"
+  bio              : "Masters student, Computer Science Department, Boston University"
   location         : "Hyderabad"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=evsIAZYAAAAJ"
-  email            : "es15btech11001@iith.ac.in"
+  email            : "divsp@bu.edu"
   uri              : 
   bitbucket        :
   codepen          :
