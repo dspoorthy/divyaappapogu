@@ -11,9 +11,9 @@ title                    : "Divya Spoorthy"
 title_separator          : "-"
 name                     : &name "Divya Spoorthy"
 description              : &description "Master's Student, Computer Science Department, Boston University"
-url                      : https://dspoorthy.github.io/divyaappapogu/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://dspoorthy.github.io/divyaappapogu # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://dspoorthy.github.io/divyaappapogu/"
+repository               : "https://dspoorthy.github.io/divyaappapogu"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ author:
   name             : "Divya Spoorthy"
   avatar           : "me.jpeg"
   bio              : "Masters student, Computer Science Department, Boston University"
-  location         : "Hyderabad"
+  location         : "Boston, MA"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=evsIAZYAAAAJ"
   email            : "divsp@bu.edu"
