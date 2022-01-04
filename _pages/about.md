@@ -21,12 +21,3 @@ where I had the pleasure of working with Dr.Soumya Jana.
 You can contact me via [LinkedIn](https://www.linkedin.com/in/divya-spoorthy-572586141/) or my [Email](divya.spoorthy7@gmail.com)
 
 
-
-# Projects
-* March, 2019. Hierarchical semantic image matching using CNN feature pyramid
-* February, 2019. Data Center Monitoring System
-* October, 2018. Query Segmentation using LSTMs.
-* September, 2018. Predicting non-small cell lung cancer prognosis my fully automated microscopic pathology image features.
-* March, 2018. Image quality assessment for Face Recognition.
-* January, 2018. Finding Right Expert for Questions.
-* May, 2017. Anemic Blood Detection using Image Processing and ML.
