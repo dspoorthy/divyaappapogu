@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Master's student in the [Computer Science Department](https://www.bu.edu/academics/cas/departments/computer-science/) 
 at [Boston University Graduate School of Arts and Sciences](https://www.bu.edu/academics/grs/). 
-[[Curriculum Vitae](dspoorthy.github.io/files/Divya_Spoorthy_Resume.pdf)] 
+[[Curriculum Vitae](https://divyaspoorthy.github.io/files/Divya_Spoorthy_Resume.pdf)] 
 [[Google Scholar](https://scholar.google.com/citations?user=evsIAZYAAAAJ&hl=en)]. 
 Currently, I am working with professor [DokyunLee](https://www.leedokyun.com/) as a Research Assistant
 My research interests lie Computer Vision, Responsible AI, NLP and Sentinent AI 
